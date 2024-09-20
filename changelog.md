@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.2 (2024-09-20)
+
+
 ## meteors 0.0.2 (2024-08-11)
 
 - No release
